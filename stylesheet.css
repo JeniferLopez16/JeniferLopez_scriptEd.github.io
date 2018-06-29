@@ -1,0 +1,48 @@
+.row{   
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+    background-color:	#b72b34	;
+    color:white;
+    font-size:20px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+.link{
+        text-decoration:none;
+        color:#f0ead4;
+        text-shadow: 2px 3px black;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Cinzel', serif;
+    
+}
+.aboutMe{
+    
+     
+    
+    
+}
+.topBox{
+    display:flex;
+    justify-content:center;
+    justify-content:space-around;
+    border:1px solid black; 
+    
+}
+.anything{
+    background-color:;
+    
+}
