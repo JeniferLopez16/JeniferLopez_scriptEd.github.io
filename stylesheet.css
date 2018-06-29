@@ -2,7 +2,7 @@
     display:flex;
     justify-content:center;
     justify-content:space-around;
-    background-color:	#b72b34	;
+    background-color:#47477E	;
     color:white;
     font-size:20px;
     font-family: 'Playfair Display', serif;
@@ -20,7 +20,7 @@
    
 }
 .mid{
-    background-color:white;
+    background-color:#EDFEED;
     color:black;
     align-items:center;
     font-size:50px;
@@ -29,12 +29,7 @@
     font-family: 'Cinzel', serif;
     
 }
-.aboutMe{
-    
-     
-    
-    
-}
+
 .topBox{
     display:flex;
     justify-content:center;
@@ -42,7 +37,8 @@
     border:1px solid black; 
     
 }
-.anything{
-    background-color:;
-    
+
+h1{
+    text-align:center;
+    text-shadow: 0 0 6px blue;
 }
